@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 590px;
+    height: 360px;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+.child{
+    background-color: #5099de;
+    width: 95px;
+    height: 95px;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+}
